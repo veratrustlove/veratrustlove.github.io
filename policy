@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Minecraft Mods App</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #3A6327;
+            border-bottom: 3px solid #3A6327;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #3A6327;
+            margin-top: 30px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .download-section {
+            background: #f0f8ff;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .download-btn {
+            display: inline-block;
+            background: #3A6327;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .download-btn:hover {
+            background: #2d4f1f;
+        }
+        .highlight {
+            background: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="last-updated">Last updated: October 13, 2025</p>
+        
+        <div class="highlight">
+            <strong>Important Subscription Information:</strong><br>
+            No commitment. Cancel anytime. You can cancel your subscription by cancelling your subscription through your Google Play account settings, or it will automatically renew. This must be done 24 hours before any subscription period to avoid being charged. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Please note: Subscription payments will be charged to your Google Play account at confirmation of your purchase and upon commencement of each renewal term. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. By clicking "Start Plan," you agree to the terms of use.
+        </div>
+
+        <h2>1. Information We Collect</h2>
+        <p>Our Minecraft Mods App collects the following information:</p>
+        <ul>
+            <li><strong>Device Information:</strong> Device type, operating system, app version</li>
+            <li><strong>Usage Data:</strong> App interactions, features used, crash reports</li>
+            <li><strong>Subscription Data:</strong> Purchase history, subscription status (processed by Google Play)</li>
+            <li><strong>Analytics Data:</strong> Anonymous usage statistics to improve app performance</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        <p>We use the collected information to:</p>
+        <ul>
+            <li>Provide and maintain our app services</li>
+            <li>Process subscription payments through Google Play</li>
+            <li>Improve app performance and user experience</li>
+            <li>Send important app updates and notifications</li>
+            <li>Analyze app usage to enhance features</li>
+        </ul>
+
+        <h2>3. Information Sharing</h2>
+        <p>We do not sell, trade, or share your personal information with third parties, except:</p>
+        <ul>
+            <li><strong>Google Play Services:</strong> For subscription management and payments</li>
+            <li><strong>Analytics Services:</strong> Anonymous usage data for app improvement</li>
+            <li><strong>Legal Requirements:</strong> When required by law or to protect our rights</li>
+        </ul>
+
+        <h2>4. Data Security</h2>
+        <p>We implement appropriate security measures to protect your information:</p>
+        <ul>
+            <li>Encrypted data transmission</li>
+            <li>Secure server infrastructure</li>
+            <li>Regular security audits</li>
+            <li>Limited access to personal data</li>
+        </ul>
+
+        <h2>5. Subscription Management</h2>
+        <p>For subscription-related matters:</p>
+        <ul>
+            <li>Subscriptions are managed through Google Play Store</li>
+            <li>You can cancel anytime through Google Play account settings</li>
+            <li>Cancellation must be done 24 hours before renewal to avoid charges</li>
+            <li>Refunds are processed according to Google Play policies</li>
+        </ul>
+
+        <h2>6. Children's Privacy</h2>
+        <p>Our app is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.</p>
+
+        <h2>7. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+
+        <h2>8. Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+        <ul>
+            <li>Email: veratrustlove@gmail.com</li>
+        </ul>
+
+        <div class="download-section">
+            <h3>Download Privacy Policy</h3>
+            <p>You can download a copy of this privacy policy for your records:</p>
+            <a href="privacy-policy.pdf" class="download-btn" download>Download PDF</a>
+        </div>
+
+        <hr style="margin: 40px 0; border: none; border-top: 1px solid #ddd;">
+        
+        <p style="text-align: center; color: #666; font-size: 14px;">
+            This privacy policy is effective as of October 13, 2025 and applies to the Minecraft Mods App.
+        </p>
+    </div>
+</body>
+</html>
